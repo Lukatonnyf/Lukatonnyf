@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lukatonnyf
 
 - 🖥️ Developer Junior
-- 🌱 Estudando HTML e Javascript
+- 🌱 Estudando HTML, Javascript, Java, SQL, C#
 
 
   <div>
