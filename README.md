@@ -2,7 +2,7 @@
 
 - 🖥️ Developer Junior
 - 🌱 Estudando HTML e Javascript
-- 📫 Contrate-me no email : contatoralukatonnyferreira@gmail.com
+
 
   <div>
         <a href="https://github.com/Lukatonnyf">
