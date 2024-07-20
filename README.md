@@ -1,7 +1,7 @@
-## Olá! Eu sou o Lukatonnyf
+## Olá! Eu sou o Lukatonny Ferreira
 
-- 🖥️ Developer Junior
-- 🌱 Estudando HTML, Javascript, Java, SQL, C#
+- 🖥️ Web Developer Junior
+- 🌱 Estudando HTML, Javascript, SQL, C#
 
 
   <div>
