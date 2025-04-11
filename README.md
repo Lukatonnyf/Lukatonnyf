@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lukatonny Ferreira
 
 - 🖥️ Web Developer Junior
-- 🌱 Estudando HTML, Javascript, SQL, C#
+- 🌱 Skills: JavaScript, ReactJs, NextJs, Tailwind, C#
 
 
   <div>
