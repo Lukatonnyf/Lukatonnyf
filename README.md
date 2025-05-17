@@ -1,12 +1,14 @@
 
 
-<h1 style="display:flex; justify-content: center; align-items:center;font-size: 15px">Lukatonny Ferreira</h1>
+<h1
+style="display:flex; justify-content: center; align-items:center
+font-size: 20px;">Lukatonny Ferreira</h1>
 
 <section>
-<h1>
+
 <p style="font-size: 12px;" >💻 Frontend Developer </p>
 <p style="font-size: 12px;">🏠 Brazilian - SP</p>
-<p >📝 See my web portfolio at:</p>
+<p style="font-size: 12px;">📝 See my web portfolio at:</p>
 
 
 <div>
