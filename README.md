@@ -4,7 +4,7 @@
 - 🌱 Skills: JavaScript, ReactJs, NextJs, Tailwind, C#
 
 
-  <div>
+  <div style={display:"flex";}>
         <a href="https://github.com/Lukatonnyf">
            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukatonnyf&show_icons=true&theme=dark&include_all_commits=true&count" >
             <img height="180em"
