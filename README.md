@@ -6,7 +6,7 @@
 <h1>
 <p style="font-size: 12px;" >💻 Frontend Developer </p>
 <p style="font-size: 12px;">🏠 Brazilian - SP</p>
-<p style="font-size: 12px;">📝 See my web portfolio at:</p>
+<p >📝 See my web portfolio at:</p>
 
 
 <div>
