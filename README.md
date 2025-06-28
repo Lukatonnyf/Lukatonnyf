@@ -8,7 +8,7 @@ font-size: 20px;">Lukatonny Ferreira</h1>
 
 <p style="font-size: 12px;" >💻 Frontend Developer </p>
 <p style="font-size: 12px;">🏠 Brazilian - SP</p>
-<p style="font-size: 12px;">📝 See my web portfolio at: <a href="https://lukatonnyferreiraportifolio.vercel.app/">
+<p style="font-size: 12px;">📝 See my web portfolio at: <a href="https://lukatonnysferreiraportifolio.vercel.app/">
 Lukatonny Ferreira Porifólio </a></p>
 
 
