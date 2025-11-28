@@ -48,17 +48,4 @@ Lukatonny Ferreira Porifólio </a></p>
 
 </div>
 
-<div>
-<h1>📊 Github Stats</h1>
 
-<p align="start" style=" width: 100%; " >
-  <a href="https://github.com/Lukatonnyf"
-  style="display: flex; justify-content: center;">
-    <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukatonnyf&layout=compact&langs_count=16&theme=dark">
-  </a>
-</p>
-
-
-
-
-</div>
