@@ -9,7 +9,7 @@ font-size: 20px;">Lukatonny Souza Ferreira</h1>
       Front-End Developer focused on modern interfaces using Next.js, React.js, and web animations.
 </p>
 <div  >
-<h5>💻 Tech Stacks and tools</h5>
+<h5 style="font-weight:700">Tech Stacks and tools</h5>
 
 <div style="display:flex;">
       
