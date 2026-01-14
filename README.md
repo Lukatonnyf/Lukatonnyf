@@ -19,8 +19,7 @@ Currently improving my skills in animations, state management, and real-world pr
 ![React](https://img.shields.io/badge/React-212121?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-212121?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-212121?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![CSharp](https://img.shields.io/badge/C%23-212121?style=for-the-badge&logo=csharp&logoColor=239120)
-      
+     
 </div>
 
 
