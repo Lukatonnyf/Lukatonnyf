@@ -16,13 +16,6 @@
 I work mainly with React and Next.js, turning real requirements into usable products.
 Currently improving my skills in animations, state management, and real-world projects.
 </p>
-<div  >
-<h5 style="font-weight:700">Tech Stacks and tools</h5>
 
-
-
-
-
-</div>
 
 
