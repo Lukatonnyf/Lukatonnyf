@@ -6,7 +6,9 @@ font-size: 20px;">Lukatonny Souza Ferreira</h1>
 
 <section>
 <p style="font-size:12px">
-      Front-End Developer focused on modern interfaces using Next.js, React.js, and web animations.
+     Front-end developer focused on building clear, accessible, and performant web interfaces.
+I work mainly with React and Next.js, turning real requirements into usable products.
+Currently improving my skills in animations, state management, and real-world projects.
 </p>
 <div  >
 <h5 style="font-weight:700">Tech Stacks and tools</h5>
