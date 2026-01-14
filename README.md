@@ -6,11 +6,9 @@
      Lukatonny Souza Ferreira
 </h1>
 
-<div style="display:flex;">
-     ![React](https://img.shields.io/badge/React-212121?style=for-the-badge&logo=react&logoColor=61DAFB)
-     ![Next.js](https://img.shields.io/badge/Next.js-212121?style=for-the-badge&logo=nextdotjs&logoColor=white)
-     ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-212121?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-</div>
+![username](https://img.shields.io/badge/@Lukatonnyf-121212?style=flat&labelColor=121212)
+![GitHub](https://img.shields.io/badge/@tonnyweb-121212?style=flat&logo=github&logoColor=white)
+![Email](https://img.shields.io/badge/ferreira070919@gmail.com-121212?style=flat&logo=gmail&logoColor=white)
 
 <section>
 <p style="font-size:12px">
@@ -20,7 +18,6 @@ Currently improving my skills in animations, state management, and real-world pr
 </p>
 <div  >
 <h5 style="font-weight:700">Tech Stacks and tools</h5>
-
 
 
 
