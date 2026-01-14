@@ -23,29 +23,6 @@ Currently improving my skills in animations, state management, and real-world pr
 </div>
 
 
-<div>
-      <h5>Socials</h5>
-      <a
-       href="https://www.youtube.com/@lukatonnyf/featured"><img width="85em"
-            src="https://img.shields.io/badge/YouTube-212121?style=for-the-badge&logo=youtube&logoColor=white">
-        </a>
-      <a href="https://www.instagram.com/lukatonny.f/"><img  width="100em"
-            src="https://img.shields.io/badge/Instagram-212121?style=for-the-badge&logo=instagram&logoColor=white">
-      </a>
-   <a href="https://discord.gg/RkFZzfGUVA">
-        <img width="85em"
-         src="https://img.shields.io/badge/Discord-212121?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="mailto:contatoralukatonnyferreira@gmail.com">
-          <img width="75em"
-            src="https://img.shields.io/badge/Gmail-212121?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  <a href="https://www.linkedin.com/in/lukatonny-ferreira-98961b263/">
-  <img width="80em"
-            src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-</section>
-
 
 
 </div>
