@@ -4,7 +4,7 @@
      Lukatonny Souza Ferreira
 </h1>
 
-<p>Front-End Developer</p>
+<p>Frontend Developer</p>
 
 ![username](https://img.shields.io/badge/@Lukatonnyf-121212?style=flat&labelColor=121212)
 ![GitHub](https://img.shields.io/badge/@tonnyweb-121212?style=flat&logo=github&logoColor=white)
