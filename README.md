@@ -17,7 +17,3 @@ I work mainly with React and Next.js, turning real requirements into usable prod
 Currently improving my skills in animations, state management, and real-world projects.
 </p>
 
-## Graphics
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukatonnyf&bg_color=0e0e0e&border_color=171717&title_color=a9a9a9&layout=compact&custom_title=Technologies)](https://github.com/Lukatonnyf/github-readme-stats)
